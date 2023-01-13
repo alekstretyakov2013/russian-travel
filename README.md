@@ -3,10 +3,16 @@
 
 
 **Технологии**
-HTML5, CSS3, БЭМ  файловая структура в соответствии с Nested БЭМ, адаптивная верстка, Grid Layout и Flexbox-верстка
+* Flexbox 
+* Grid Layout 
+* Positioning Elements 
+* BEM Methodology 
+* File Structure and File Paths (Nested BEM) 
+* Git 
+* Figma 
 
 **Ссылка на проект**
-* [Ссылка на проект] (https://alekstretyakov2013.github.io/russian-travel/)
+* https://alekstretyakov2013.github.io/russian-travel/
 
 **Figma**
 

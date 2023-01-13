@@ -1,0 +1,10 @@
+.place__link {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  line-height: 22px;
+  max-width: 456px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #ffffff;
+  cursor: pointer;
+}

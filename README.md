@@ -6,7 +6,7 @@
 HTML5, CSS3, БЭМ  файловая структура в соответствии с Nested БЭМ, адаптивная верстка, Grid Layout и Flexbox-верстка
 
 **Ссылка на проект**
-
+https://alekstretyakov2013.github.io/russian-travel/
 
 **Figma**
 

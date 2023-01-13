@@ -1,13 +1,14 @@
 # Проект: Путешествие по России
+Учебный проект [Yandex Практикум](https://praktikum.yandex.ru/web/ "Курс Веб-разработчик") - 
 "Путешествие по России" - это типовой однастраничный сайт про российский туризм.
 
 
 **Технологии**
 * Flexbox 
-* Grid Layout 
-* Positioning Elements 
-* BEM Methodology 
-* File Structure and File Paths (Nested BEM) 
+* Grid Layout
+* адаптивная верстка 
+* Бэм
+* файловая структура в соответствии с Nested БЭМ  
 * Git 
 * Figma 
 
